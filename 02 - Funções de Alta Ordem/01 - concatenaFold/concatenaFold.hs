@@ -1,0 +1,1 @@
+concatenaFold xss = foldr (++) [] xss
