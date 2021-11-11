@@ -10,4 +10,5 @@ Aprendizado da linguagem de programação Haskell
 - Definições de Tipos
 - Tipo Árvore
 - Criação de Módulos
+- Classes de Tipos
 - Entrada e Saída
